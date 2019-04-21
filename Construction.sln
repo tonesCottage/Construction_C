@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project_teStruction", "Project_teStruction\Project_teStruction.vcxproj", "{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearnC", "LearnC\LearnC.vcxproj", "{D369B74B-4604-47CA-B6C3-73211DF91000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Debug|Win32.Build.0 = Debug|Win32
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Debug|x64.ActiveCfg = Debug|Win32
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Release|Win32.ActiveCfg = Release|Win32
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Release|Win32.Build.0 = Release|Win32
+		{AC2E12C9-FB61-4BFE-863B-9E12278A35D2}.Release|x64.ActiveCfg = Release|Win32
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Debug|Win32.Build.0 = Debug|Win32
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Debug|x64.ActiveCfg = Debug|x64
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Debug|x64.Build.0 = Debug|x64
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Release|Win32.ActiveCfg = Release|Win32
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Release|Win32.Build.0 = Release|Win32
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Release|x64.ActiveCfg = Release|x64
+		{D369B74B-4604-47CA-B6C3-73211DF91000}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E0BD6F-4C3C-4D6A-A86E-2365F1F34A98}
+	EndGlobalSection
+EndGlobal
